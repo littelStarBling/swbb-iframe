@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+
+.logo {
+  width: 320px;
+}
+
+.logo-text {
+  color: #01689b;
+  font-size: 0.8rem;
+}
+
+.g-bg {
+  background-color: #ebebeb;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid red;
+  margin: 1rem auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+p {
+  font-size: 0.9rem;
+}
+
+.fit-image {
+  width: 100%;
+}
+
+form {
+  text-align: center;
+  margin-top: 5rem;
+}
+/*# sourceMappingURL=main.css.map */

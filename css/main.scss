@@ -1,0 +1,42 @@
+$blue: #01689b;
+$gray-bg:rgb(235, 235, 235);
+
+body {
+    font-family: sans-serif;
+  }
+
+  .logo {
+        width: 320px;
+    }
+      
+    .logo-text {
+        color: $blue;
+        font-size: 0.8rem;
+    }
+
+    .g-bg {
+        background-color: $gray-bg;
+    }
+    
+    input {
+        border: none;
+        border-bottom: 1px solid red;
+        margin: 1rem auto;
+    }
+
+    input:focus {
+        outline: none;
+    }
+
+  p {
+      font-size: 0.9rem;
+  }
+  
+  .fit-image {
+      width: 100%;
+  }
+
+  form {
+      text-align: center;
+      margin-top: 5rem;
+  }
